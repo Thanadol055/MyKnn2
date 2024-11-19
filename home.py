@@ -7,6 +7,6 @@ st.header("😊😊Website Devloping using Python😊😊")
 st.image('./img/Thanadol.png')
 st.subheader("Thanadol Phonin")
 
-dt=pd.read_csv('./data/iris-3.csv')
-st.header()
+dt=pd.read_csv('./data/iris.csv')
+st.header("ข้อมูลดอกไม้")
 st.write(dt.head(10))
