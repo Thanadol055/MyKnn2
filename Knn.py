@@ -5,6 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 st.header('Thanadol Phonin')
+st.subheader("Information Technology")
 st.image("./img/Photo.jpg")
 col1, col2, col3 = st.columns(3)
 
